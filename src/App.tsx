@@ -3,18 +3,21 @@ import Hero from './Hero'
 import FixedRightPanel from './FixedPanel'
 import Skills from './Skills/Skills'
 import Projects from './Projects/Project'
-import { RiGithubLine, RiPhoneFill, RiLinkedinFill } from 'react-icons/ri'
+import { RiGithubLine, RiPhoneFill, RiLinkedinFill,RiTwitterFill } from 'react-icons/ri'
 import { ThemeCtx } from './context/ThemeContext'
 import { useContext, useEffect } from 'react'
 import Tab from './Tab'
 import WorkExperience from './WorkExperience'
 import Certifications from './Certifications'
+import FiverLogo from './static/image/fiverr-logo.png'
 
 const LINKS = {
   cv: 'https://docs.google.com/document/d/1fHUQRdyf2RzSXUNME7ASAehzVarY-Fl2541if2EUQyI/edit?usp=sharing',
-  github: 'https://github.com/lil-armstrong',
-  linkedin: 'https://linkedin.com/in/lil-armstrong',
-  phone: 'tel:08109875593',
+  github: 'https://github.com/AniekutmfonGodwin',
+  linkedin: 'https://linkedin.com/in/aniekutmfongodwin',
+  phone: 'tel:+2348123880944',
+  twitter: 'https://twitter.com/aniekutmfon',
+  fiverr: 'https://www.fiverr.com/aniesdigital',
 }
 const CONTACT_LINKS: any[] = [
   <>
@@ -30,6 +33,18 @@ const CONTACT_LINKS: any[] = [
   <>
     <a href={LINKS?.phone}>
       <RiPhoneFill />
+    </a>
+  </>,
+  <>
+    <a href={LINKS?.twitter}>
+      <RiTwitterFill />
+    </a>
+  </>,
+  <>
+    <a href={LINKS?.fiverr}>
+      <img src={FiverLogo} style={{
+        height:30,
+      }} alt="fiverr" />
     </a>
   </>,
 ]
@@ -56,11 +71,11 @@ function App() {
     <div className="">
       <FixedRightPanel />
       <Hero
-        mainTitle={<div className="">Ebong Okposong</div>}
+        mainTitle={<div className="">Ekere, Aniekutmfon</div>}
         subTitle={
           <>
             <ul className="list list-row " style={{ justifyContent: 'center' }}>
-              <li className="list-item">Javascript Engineer</li>
+              <li className="list-item">Software Engineer</li>
             </ul>
           </>
         }
@@ -166,7 +181,7 @@ function App() {
 
                 <div className="flex justify-end mt-[30px]">
                   <button type="submit" className="btn btn-outline btn-lg ">
-                    <a href="mailto:oebong1@gmail.com">Get in touch</a>
+                    <a href="mailto:aniekutmfonekere@gmail.com">Get in touch</a>
                   </button>
                 </div>
               </section>
@@ -175,7 +190,7 @@ function App() {
             {/* FOOTER */}
             <footer className="mt-auto">
               <div className="boxed_layout text-center opacity-50 p-4 text-gray-400">
-                Copyright &copy; 2022 | Ebong, Okposong
+                Copyright &copy; 2022 | Ekere, Aniekutmfon
               </div>
             </footer>
           </div>

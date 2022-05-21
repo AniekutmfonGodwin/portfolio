@@ -1,5 +1,5 @@
 import "./index.scss";
-import MePng from "../static/image/me.png";
+import MePng from "../static/image/profile-preview.png";
 
 interface PropInterface {
   mainTitle: JSX.Element | string;
