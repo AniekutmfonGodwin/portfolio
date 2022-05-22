@@ -12,7 +12,7 @@ import Certifications from './Certifications'
 import FiverLogo from './static/image/fiverr-logo.png'
 
 const LINKS = {
-  cv: 'https://docs.google.com/document/d/1fHUQRdyf2RzSXUNME7ASAehzVarY-Fl2541if2EUQyI/edit?usp=sharing',
+  cv: 'https://drive.google.com/file/d/1UoNOAuD_hZLq28IZmd2Eua_6nD4Jp7NV/view?usp=sharing',
   github: 'https://github.com/AniekutmfonGodwin',
   linkedin: 'https://linkedin.com/in/aniekutmfongodwin',
   phone: 'tel:+2348123880944',
@@ -96,28 +96,55 @@ function App() {
                   </header>
                   <div className="overflow-y-auto  hidden_scrollbar">
                     <p className="lead ">
-                      I am a motivated and skilled individual seeking new
-                      opportunities in IT support and software development. I
-                      love <span className="tag">simplicity</span>,{' '}
-                      <span className="tag">elegance</span> and{' '}
-                      <span className="tag">clarity</span> and have experience
-                      working professionally as a freelance{' '}
-                      <span className="tag">visual designer</span>,{' '}
-                      <span className="tag">Project manager</span> &{' '}
-                      <span className="tag">web application developer</span>.
+                    A Software Engineer with 3+ years of experience working with <span className="tag">MERN stack</span> and facilitating cutting-edge solutions
+                    with a wide range of <span className="tag">e-commerce application</span> and technology skills. An expert in <span className="tag">Blockchain development</span>
+                    experience in developing Decentralized Blockchain Applications using <span className="tag">Bitcoin</span>, <span className="tag">Ethereum</span>, <span className="tag">Binance Smart Chain</span>
+                    and <span className="tag">Ripple</span>.
+                    Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website
+                    designs to scale. Expertise in large system architecture development and administration as well as network design
+                    and configuration.
+                    With <span className="tag">Python</span> as a primary language, I'm experienced with <span className="tag">Django</span>, and have working knowledge of technologies
+                    such as <span className="tag">FastApi</span>, <span className="tag">Pydantic</span>, <span className="tag">Sqlalchemy</span>, <span className="tag">Selenium Webdriver</span>, <span className="tag">Beautifulsoup</span> and <span className="tag">Celery</span>
+                    Also have Core knowledge in <span className="tag">
+                      HTML
+                      </span>
+                      , <span className="tag">
+                        CSS
+                        </span>
+                        , <span className="tag">
+                          JavaScript
+                          </span>
+                           and expertise in <span className="tag">
+                             React
+                             </span>
+                             , <span className="tag">
+                               ReactNative
+                               </span>
+                               , <span className="tag">
+                                 Redux
+                                 </span>
+                                 , <span className="tag">
+                                   Material UI
+                                   </span>
+                                   .
+                    <span className="tag">Nodejs</span> with frameworks such as <span className="tag">
+                      Express
+                      </span>
+                       and <span className="tag">
+                         Hapi.
+                         </span>
+                    Also experienced with database and database management such as <span className="tag">
+                      MySQL
+                      </span>
+                      , <span className="tag">
+                        PostgreSQL
+                        </span>
+                         and <span className="tag">
+                           MongoDb
+                           </span>
+                           . Also
+                    familiar with Testing to build production level solutions and working in an Agile Development Environment.
                     </p>
-                    <p className="lead ">
-                      By completing several online courses, I have gained
-                      practical ample hands-on skills and training in{' '}
-                      <span className="tag">business</span>,{' '}
-                      <span className="tag">IT support</span>,{' '}
-                      <span className="tag">computer networking</span>,{' '}
-                      <span className="tag">project management</span> etc. I am
-                      passionate about continuously learning and I am curious
-                      about how I can help and add value to people by solving
-                      their technical problems.
-                    </p>
-
                     <p>
                       I am currently taking on remote contract and freelance jobs.
                     </p>
@@ -126,6 +153,7 @@ function App() {
                 <div className="flex w-full justify-end self-end mt-[30px]">
                   <a
                     href={LINKS?.cv}
+                    target="_blank"
                     download
                     className="btn btn-primary btn-lg "
                   >
