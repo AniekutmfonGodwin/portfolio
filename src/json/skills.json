@@ -8,7 +8,7 @@
           "level": "Intermediate"
         },
         {
-          "name": "Reactjs", 
+          "name": "Reactjs",
           "level": "Advanced"
         },
         {
@@ -17,10 +17,6 @@
         },
         {
           "name": "Nodejs",
-          "level": "Advanced"
-        },
-        {
-          "name": "Vuejs",
           "level": "Advanced"
         }
       ],
@@ -101,6 +97,22 @@
         {
           "name": "Firebase",
           "level": "Intermediate"
+        },
+        {
+          "name": "Docker",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Kubernetes",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Docker compose",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Github Action",
+          "level": "Intermediate"
         }
       ]
     },
@@ -108,15 +120,7 @@
       "name": "Design",
       "tools": [
         {
-          "name": "Figma",
-          "level": "Intermediate"
-        },
-        {
-          "name": "Inkscape",
-          "level": "Intermediate"
-        },
-        {
-          "name": "GIMP",
+          "name": "Photoshop",
           "level": "Intermediate"
         },
         {
@@ -133,15 +137,7 @@
           "level": "Intermediate"
         },
         {
-          "name": "Notion",
-          "level": "Intermediate"
-        },
-        {
           "name": "Slack",
-          "level": "Intermediate"
-        },
-        {
-          "name": "Microsoft Teams",
           "level": "Intermediate"
         },
         {
@@ -152,7 +148,6 @@
     }
   ],
   "interest": [
-    "UI/UX implementation & optimization",
     "Computer Programming",
     "SEO optimization",
     "Responsive Web design",
@@ -162,31 +157,23 @@
     "Web application interface design",
     "Design Thinking & Research",
     "Component-Driven Development",
+    "Domain-Driven Development",
     "Web accessibility",
     "Web scraping",
     "Browser Extension Development",
     "Progressive Web Application development",
     "Basic computer architecture",
     "Operating systems (Windows Linux)",
-    "Remote connection and virtual machines",
-    "Computer networking",
+    "Artificial Intelligence/Machine Learning",
     "Software management",
+    "Aoftware Architecture",
     "Troubleshooting",
     "Routing concepts",
     "VPNs and proxies",
-    "Permissioning",
-    "Package and software management",
-    "Process management",
-    "Resource monitoring",
-    "Systems administration",
-    "Configuration",
-    "Centralized management",
-    "Implementing/managing directory services",
-    "Data management and recovery",
     "IT security",
     "Cryptology/encryption",
     "Hashing",
-    "Cryptocurrency",
+    "Blockchain development",
     "Network security",
     "Personal Development"
   ],
@@ -198,7 +185,7 @@
     "grit",
     "attention to details",
     "problem solving, flexible & adaptive",
-    "self-starter",
-    "strong work ethics"
+    "strong work ethics",
+    "ability to simplify complex problem"
   ]
 }

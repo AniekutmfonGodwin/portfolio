@@ -13,28 +13,46 @@
     "name": "Perzsi",
     "roles": [
       "Project manager",
-      "Frontend Engineer (React.js/Next.js)"
+      "Backend Engineer (React.js/Python)"
     ],
     "timeline": "July - Aug 2021",
     "description": "Ecommerce store products listing bot - SWR, styled-components, RWD, TailwindCSS, ChakraUI, Next.js, AWS, MongoDB",
     "link": "https://perzsi.com"
   },
   {
-    "name": "Ordavo.nl",
+    "name": "Landtopia_io",
     "roles": [
-      "Lead Frontend Engineer (Vue.js/Nuxt.js)"
+      "Backend Engineer (Python)"
     ],
-    "timeline": "January – June 2021",
-    "description": "Ecommerce web app - SEO optimization, UI, RWD, Vue/Nuxt, ApolloGraphQL, Tailwind CSS, SCSS, Instant messaging, Internalization",
-    "link": "https://ordavo.nl"
+    "timeline": "May 2022",
+    "description": "Landtopia is the one-stop source for all upcoming metaverse land sales where you can discover projects that will host in the next metaverse land sales - Django , MySql",
+    "link": "http://landtopia.io"
   },
   {
-    "name": "EGLogistics",
+    "name": "Custom MetaMask",
     "roles": [
-      "Lead Frontend Engineer (Vue.js/Nuxt.js)"
+      "Full - Stack Engineer (React/Node.js) "
     ],
-    "timeline": "October 2021",
-    "description": "Logistics web application - UI/UX, Payment integration, SEO optimization, Web application interface design, Vue/Nuxt, ApolloGraphQL, Custom Google Map Integration",
-    "link": "https://eglogisticsng.com"
+    "timeline": "May 2022",
+    "description": "We clone and customize Metamask extension to suit provided requirements - web3.js , storybook, lavamot, React, Redux",
+    "link": "#"
+  },
+  {
+    "name": "Discord Bot",
+    "roles": [
+      "Software Engineer (React/Python) "
+    ],
+    "timeline": "Sep 2021 - Apr 2022",
+    "description": "Build a Discord bot and an automated control panel for the Discord bot. - FastApi, React, discord.py, Celery, Selenuim, Webdriver,sqlalchemy",
+    "link": "#"
+  },
+  {
+    "name": "Nikcano",
+    "roles": [
+      "Software Engineer (React/Python)"
+    ],
+    "timeline": "Jan 2019 - May 2021",
+    "description": "A platform that help contest organizers manage their event and contest with ease - React, Python",
+    "link": "https://nikcano.com"
   }
 ]

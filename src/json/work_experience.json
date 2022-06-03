@@ -9,22 +9,31 @@
     "description": "Presentation, Project management, and collaboration, Capacity building, and problem-solving"
   },
   {
-    "org": "Tedikom Wireless",
+    "org": "Landtopia",
     "roles": [
-      "Lead Visual Designer (Volunteer)",
-      "Graphics Designer"
+      "Backend Engineer"
     ],
     "location": "Akwa Ibom, Nigeria",
-    "timeline": "June – December 2016",
-    "description": "Brand design, Design instructor, Problem-solving, and collaboration"
+    "timeline": "April 2022 - May 2022",
+    "description": "Landtopia is the one-stop source for all upcoming metaverse land sales where you can discover projects that will host in the next metaverse land sales"
   },
   {
-    "org": "TodayFM95.1",
+    "org": "Block-Stars Pvt. Ltd.",
     "roles": [
-      "Assistant System Administrator (Intern)"
+      "Fullstack Engineer"
     ],
-    "location": "Rivers, Nigeria",
-    "timeline": " June 2015 – December 2015",
-    "description": "System administration, networking and hardware procurement, and maintenance"
+    "location": "South Korea",
+    "timeline": "May 2022",
+    "description": "Blockchain developer"
+  },
+  {
+    "org": "Money Moves Investment",
+    "roles": [
+      "Fullstack Engineer"
+    ],
+    "location": "United States",
+    "timeline": "Sep 2021 - Apr 2022",
+    "description": "Build and maintain Discord bot use to interface with multiple system"
   }
+
 ]
