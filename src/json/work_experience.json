@@ -1,0 +1,39 @@
+[
+  {
+    "org": "TheRoothub",
+    "roles": [
+      "Web Development Training Facilitator"
+    ],
+    "location": "Akwa Ibom, Nigeria",
+    "timeline": "October 2020 - Present",
+    "description": "Presentation, Project management, and collaboration, Capacity building, and problem-solving"
+  },
+  {
+    "org": "Landtopia",
+    "roles": [
+      "Backend Engineer"
+    ],
+    "location": "Akwa Ibom, Nigeria",
+    "timeline": "April 2022 - May 2022",
+    "description": "Landtopia is the one-stop source for all upcoming metaverse land sales where you can discover projects that will host in the next metaverse land sales"
+  },
+  {
+    "org": "Block-Stars Pvt. Ltd.",
+    "roles": [
+      "Fullstack Engineer"
+    ],
+    "location": "South Korea",
+    "timeline": "May 2022",
+    "description": "Blockchain developer"
+  },
+  {
+    "org": "Money Moves Investment",
+    "roles": [
+      "Fullstack Engineer"
+    ],
+    "location": "United States",
+    "timeline": "Sep 2021 - Apr 2022",
+    "description": "Build and maintain Discord bot use to interface with multiple system"
+  }
+
+]

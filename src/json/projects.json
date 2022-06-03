@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Cointc",
+    "roles": [
+      "Project manager",
+      "Fullstack Javascript engineer (Nodejs/Reactjs)"
+    ],
+    "timeline": "Oct 2021 - jan 2022",
+    "description": "P2P Cryptocurrency Trading platform - PostgreSQL, styled-components, RWD, Reactjs, Node.js, Github actions, Tatum.io",
+    "link": "https://cointc.net"
+  },
+  {
+    "name": "Perzsi",
+    "roles": [
+      "Project manager",
+      "Backend Engineer (React.js/Python)"
+    ],
+    "timeline": "July - Aug 2021",
+    "description": "Ecommerce store products listing bot - SWR, styled-components, RWD, TailwindCSS, ChakraUI, Next.js, AWS, MongoDB",
+    "link": "https://perzsi.com"
+  },
+  {
+    "name": "Landtopia_io",
+    "roles": [
+      "Backend Engineer (Python)"
+    ],
+    "timeline": "May 2022",
+    "description": "Landtopia is the one-stop source for all upcoming metaverse land sales where you can discover projects that will host in the next metaverse land sales - Django , MySql",
+    "link": "http://landtopia.io"
+  },
+  {
+    "name": "Custom MetaMask",
+    "roles": [
+      "Full - Stack Engineer (React/Node.js) "
+    ],
+    "timeline": "May 2022",
+    "description": "We clone and customize Metamask extension to suit provided requirements - web3.js , storybook, lavamot, React, Redux",
+    "link": "#"
+  },
+  {
+    "name": "Discord Bot",
+    "roles": [
+      "Software Engineer (React/Python) "
+    ],
+    "timeline": "Sep 2021 - Apr 2022",
+    "description": "Build a Discord bot and an automated control panel for the Discord bot. - FastApi, React, discord.py, Celery, Selenuim, Webdriver,sqlalchemy",
+    "link": "#"
+  },
+  {
+    "name": "Nikcano",
+    "roles": [
+      "Software Engineer (React/Python)"
+    ],
+    "timeline": "Jan 2019 - May 2021",
+    "description": "A platform that help contest organizers manage their event and contest with ease - React, Python",
+    "link": "https://nikcano.com"
+  }
+]

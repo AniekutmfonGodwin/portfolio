@@ -1,0 +1,191 @@
+{
+  "technical-skills": [
+    {
+      "name": "Javascript",
+      "tools": [
+        {
+          "name": "React Native",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Reactjs",
+          "level": "Advanced"
+        },
+        {
+          "name": "Typescript",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Nodejs",
+          "level": "Advanced"
+        }
+      ],
+      "level": "Advanced",
+      "icon": ""
+    },
+    {
+      "name": "Markup",
+      "tools": [
+        {
+          "name": "HTML5"
+        },
+        {
+          "name": "Markdown"
+        }
+      ],
+      "level": "Advanced"
+    },
+    {
+      "name": "UI Development",
+      "tools": [
+        {
+          "name": "CSS"
+        },
+        {
+          "name": "SCSS"
+        },
+        {
+          "name": "TailwindCSS"
+        },
+        {
+          "name": "Bootstrap"
+        }
+      ],
+      "level": "Advanced"
+    },
+    {
+      "name": "Database management",
+      "tools": [
+        {
+          "name": "SQL"
+        },
+        {
+          "name": "PostgreSQL"
+        },
+        {
+          "name": "SQLite"
+        },
+        {
+          "name": "MongoDB"
+        }
+      ],
+      "level": "Advanced"
+    },
+    {
+      "name": "API Documentation",
+      "tools": [
+        {
+          "name": "GraphQL"
+        },
+        {
+          "name": "RESTAPI"
+        }
+      ],
+      "level": "Intermediate"
+    },
+    {
+      "name": "DevOps",
+      "tools": [
+        {
+          "name": "Git & Git CLI",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Heroku",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Firebase",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Docker",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Kubernetes",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Docker compose",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Github Action",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "name": "Design",
+      "tools": [
+        {
+          "name": "Photoshop",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Adobe Illustrator",
+          "level": "Intermediate"
+        }
+      ]
+    },
+    {
+      "name": "Project management",
+      "tools": [
+        {
+          "name": "Trello",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Slack",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Asana",
+          "level": "Intermediate"
+        }
+      ]
+    }
+  ],
+  "interest": [
+    "Computer Programming",
+    "SEO optimization",
+    "Responsive Web design",
+    "Code optimization",
+    "Database development",
+    "System analysis and design",
+    "Web application interface design",
+    "Design Thinking & Research",
+    "Component-Driven Development",
+    "Domain-Driven Development",
+    "Web accessibility",
+    "Web scraping",
+    "Browser Extension Development",
+    "Progressive Web Application development",
+    "Basic computer architecture",
+    "Operating systems (Windows Linux)",
+    "Artificial Intelligence/Machine Learning",
+    "Software management",
+    "Aoftware Architecture",
+    "Troubleshooting",
+    "Routing concepts",
+    "VPNs and proxies",
+    "IT security",
+    "Cryptology/encryption",
+    "Hashing",
+    "Blockchain development",
+    "Network security",
+    "Personal Development"
+  ],
+  "soft-skills": [
+    "respectful",
+    "diligent",
+    "courteous",
+    "active listening",
+    "grit",
+    "attention to details",
+    "problem solving, flexible & adaptive",
+    "strong work ethics",
+    "ability to simplify complex problem"
+  ]
+}
