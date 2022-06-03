@@ -1,6 +1,58 @@
 {
   "technical-skills": [
     {
+      "name": "Python",
+      "tools": [
+        {
+          "name": "FastApi",
+          "level": "Advance"
+        },
+        {
+          "name": "Django",
+          "level": "Advance"
+        },
+        {
+          "name": "Selenium",
+          "level": "Advance"
+        },
+        {
+          "name": "Webdirver",
+          "level": "Advance"
+        },
+        {
+          "name": "BeautifulSoup",
+          "level": "Advance"
+        },
+        {
+          "name": "Redis",
+          "level": "Advance"
+        },
+        {
+          "name": "sqlalchemy",
+          "level": "Advance"
+        },
+        {
+          "name": "Discord.py",
+          "level": "Advance"
+        },
+        {
+          "name": "Web3.py",
+          "level": "Intermediate"
+        },
+        {
+          "name": "Pytest",
+          "level": "Advance"
+        },
+        {
+          "name": "Pandas",
+          "level": "Intermediate"
+        }
+
+      ],
+      "level": "Advanced",
+      "icon": ""
+    },
+    {
       "name": "Javascript",
       "tools": [
         {
