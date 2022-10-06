@@ -3,7 +3,7 @@ import Hero from './Hero'
 import FixedRightPanel from './FixedPanel'
 import Skills from './Skills/Skills'
 import Projects from './Projects/Project'
-import { RiGithubLine, RiPhoneFill, RiLinkedinFill,RiTwitterFill } from 'react-icons/ri'
+import { RiGithubLine, RiMailFill, RiLinkedinFill,RiTwitterFill } from 'react-icons/ri'
 import { ThemeCtx } from './context/ThemeContext'
 import { useContext, useEffect } from 'react'
 import Tab from './Tab'
@@ -12,12 +12,12 @@ import Certifications from './Certifications'
 import FiverLogo from './static/image/fiverr-logo.png'
 
 const LINKS = {
-  cv: 'https://drive.google.com/file/d/1UoNOAuD_hZLq28IZmd2Eua_6nD4Jp7NV/view?usp=sharing',
+  cv: 'https://drive.google.com/file/d/1BTp0XVKNQmd7BDhrjJ-dVTEmfc3bs_l1/view?usp=sharing',
   github: 'https://github.com/AniekutmfonGodwin',
   linkedin: 'https://linkedin.com/in/aniekutmfongodwin',
-  phone: 'tel:+2348123880944',
   twitter: 'https://twitter.com/aniekutmfon',
   fiverr: 'https://www.fiverr.com/aniesdigital',
+  email: 'mailto:aniekutmfonekere@gmail.com',
 }
 const CONTACT_LINKS: any[] = [
   <>
@@ -31,8 +31,8 @@ const CONTACT_LINKS: any[] = [
     </a>
   </>,
   <>
-    <a href={LINKS?.phone}>
-      <RiPhoneFill />
+    <a href={LINKS?.email}>
+      <RiMailFill />
     </a>
   </>,
   <>
@@ -94,59 +94,185 @@ function App() {
                   <header className=" ">
                     <h3 className="section_title">ABOUT</h3>
                   </header>
+                  
                   <div className="overflow-y-auto  hidden_scrollbar">
                     <p className="lead ">
-                    A Software Engineer with 3+ years of experience working with <span className="tag">MERN stack</span> and facilitating cutting-edge solutions
-                    with a wide range of <span className="tag">e-commerce application</span> and technology skills. An expert in <span className="tag">Blockchain development</span>
-                    experience in developing Decentralized Blockchain Applications using <span className="tag">Bitcoin</span>, <span className="tag">Ethereum</span>, <span className="tag">Binance Smart Chain</span>
-                    and <span className="tag">Ripple</span>.
-                    Proven ability to leverage full-stack knowledge and experience to build interactive and user-centered website
-                    designs to scale. Expertise in large system architecture development and administration as well as network design
-                    and configuration.
-                    With <span className="tag">Python</span> as a primary language, I'm experienced with <span className="tag">Django</span>, and have working knowledge of technologies
-                    such as <span className="tag">FastApi</span>, <span className="tag">Pydantic</span>, <span className="tag">Sqlalchemy</span>, <span className="tag">Selenium Webdriver</span>, <span className="tag">Beautifulsoup</span> and <span className="tag">Celery</span>
-                    Also have Core knowledge in <span className="tag">
-                      HTML
+                    A
+                    <span className="tag">
+
+                    Software Engineer
+                    </span>
+                     with
+                    <span className="tag">
+
+                    4+ years
+                    </span>
+                     of experience working with
+                     <span className="tag">
+                     Python stack
+
+                     </span>
+                      and
+                      <span className="tag">
+
+                    MERN stack
                       </span>
-                      , <span className="tag">
-                        CSS
-                        </span>
-                        , <span className="tag">
-                          JavaScript
-                          </span>
-                           and expertise in <span className="tag">
-                             React
-                             </span>
-                             , <span className="tag">
-                               ReactNative
-                               </span>
-                               , <span className="tag">
-                                 Redux
-                                 </span>
-                                 , <span className="tag">
-                                   Material UI
-                                   </span>
-                                   .
-                    <span className="tag">Nodejs</span> with frameworks such as <span className="tag">
-                      Express
+                     to facilitate cutting-edge solutions with a wide range of e-commerce
+                    application and technology skills. An expert in
+                    <span className="tag">
+
+                    Blockchain development
+                    </span>
+                    experience in developing Decentralised Blockchain Applications using
+                    <span className="tag">
+                    Bitcoin
+
+                    </span>
+                    ,
+                    <span className="tag">
+                    Ethereum
+
+                    </span>
+                    ,
+                    <span className="tag">
+                    Binance Smart Chain
+
+                    </span>
+                     and
+                    <span className="tag">
+
+                    Ripple
+                    </span>
+                    .
+
+                    Proven ability to leverage full-stack knowledge and experience to build
+                    interactive and user-centered website designs to scale. Expertise in large system
+                    architecture development and administration as well as network design and
+                    configuration.
+
+                    With
+                    <span className="tag">
+
+                    Python
+                    </span>
+                     as a primary language, I'm experienced with
+                    <span className="tag">
+                    Django
+
+                    </span>
+                    , and have
+                    working knowledge of technologies such as
+                    <span className="tag">
+                    FastApi
+
+                    </span>
+                    ,
+                    <span className="tag">
+
+                    Pydantic
+                    </span>
+                    ,
+                    <span className="tag">
+
+                    SqlAlchemy
+                    </span>
+                    ,
+                    <span className="tag">
+                      Selenium Webdriver
+
+                    </span>
+                    ,
+                    <span className="tag">
+
+                    Beautifulsoup
+                    </span>
+                     and
+                    <span className="tag">
+                      Celery
+                    </span>
+
+                    Also have Core knowledge in
+                    <span className="tag">
+
+                    HTML
+                    </span>
+                    ,
+                    <span className="tag">
+                    CSS
+
+                    </span>
+                    ,
+                    <span className="tag">
+
+                    JavaScript
+                    </span>
+                     and expertise in
+                     <span className="tag">
+                     React
+
+                     </span>
+                     ,
+                     <span className="tag">
+                    ReactNative
+
+                     </span>
+                    ,
+                    <span className="tag">
+                    Redux
+
+                    </span>
+                    ,
+                    <span className="tag">
+                    Material UI
+
+                    </span>
+                    .
+                    <span className="tag">
+                    Nodejs
+
+                    </span>
+                     with frameworks such as
+                     <span className="tag">
+                     Express
+
+                     </span>
+                      and
+                      <span className="tag">
+                    Hapi
+
                       </span>
-                       and <span className="tag">
-                         Hapi.
-                         </span>
-                    Also experienced with database and database management such as <span className="tag">
-                      MySQL
-                      </span>
-                      , <span className="tag">
-                        PostgreSQL
-                        </span>
-                         and <span className="tag">
-                           MongoDb
-                           </span>
-                           . Also
-                    familiar with Testing to build production level solutions and working in an Agile Development Environment.
+                    .
+
+                    Also experienced with database and database management such as
+                    <span className="tag">
+
+                    MySQL
+                    </span>
+                    ,
+                    <span className="tag">
+
+                    PostgreSQL
+                    </span>
+                     and
+                     <span className="tag">
+                     MongoDb
+
+                     </span>
+                     . Also familiar with
+                     <span className="tag">
+                     Testing
+
+                     </span>
+                      to build production level
+                    solutions and working in an
+                    <span className="tag">
+                    Agile
+
+                    </span>
+                     Development Environment.
                     </p>
                     <p>
-                      I am currently taking on remote contract and freelance jobs.
+                      I am currently taking on remote contract or full-time job.
                     </p>
                   </div>
                 </section>
@@ -155,6 +281,7 @@ function App() {
                     href={LINKS?.cv}
                     target="_blank"
                     download
+                    rel="noreferrer"
                     className="btn btn-primary btn-lg "
                   >
                     Download CV

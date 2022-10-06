@@ -1,39 +1,85 @@
 [
   {
-    "org": "TheRoothub",
+    "org": "The Roothub",
     "roles": [
-      "Web Development Training Facilitator"
+      "Software Developer and Facilitator"
     ],
     "location": "Akwa Ibom, Nigeria",
-    "timeline": "October 2020 - Present",
+    "timeline": "Feb 2021 - Present",
     "description": "Presentation, Project management, and collaboration, Capacity building, and problem-solving"
   },
   {
-    "org": "Landtopia",
+    "org": "TechPed Pty Ltd",
     "roles": [
-      "Backend Engineer"
+      "Software Engineer"
     ],
-    "location": "Akwa Ibom, Nigeria",
+    "location": "Australia",
     "timeline": "April 2022 - May 2022",
-    "description": "Landtopia is the one-stop source for all upcoming metaverse land sales where you can discover projects that will host in the next metaverse land sales"
+    "description": "Desktop Application development"
   },
   {
     "org": "Block-Stars Pvt. Ltd.",
     "roles": [
-      "Fullstack Engineer"
+      "Blockchain Developer"
     ],
     "location": "South Korea",
-    "timeline": "May 2022",
-    "description": "Blockchain developer"
+    "timeline": "Apr 2022 - May 2022",
+    "description": "We clone and customize Metamask extension to suit provided requirements."
+  },
+
+
+  {
+    "org": "Landtopia",
+    "roles": [
+      "Software Developer"
+    ],
+    "timeline": "Mar 2022 - May 2022",
+    "description": "Landtopia is the one-stop source for all upcoming metaverse land sales where you can discover projects that will host in the next metaverse land sales"
+  },
+  {
+    "org": "Wolflive",
+    "roles": [
+      "Software Application Developer"
+    ],
+    "location": "Saudi Arabia",
+    "timeline": "Mar 2022 - Apr 2022",
+    "description": "Wolflive game bot is a bot created to play wolflive game .the bot was created with selenium headless chrome using python programing language"
   },
   {
     "org": "Money Moves Investment",
     "roles": [
-      "Fullstack Engineer"
+      "Software Engineer"
     ],
     "location": "United States",
-    "timeline": "Sep 2021 - Apr 2022",
-    "description": "Build and maintain Discord bot use to interface with multiple system"
+    "timeline": "Nov 2021 - Apr 2022",
+    "description": "Design and implementation of control panel for automation of internal processes."
+  },
+  {
+    "org": "Block-Stars Pvt. Ltd",
+    "roles": [
+      "Blockchain Developer"
+    ],
+    "location": "South Korea",
+    "timeline": "Nov 2021 - Jan 2022",
+    "description": "Cypto Exchange platform"
+  },
+  {
+    "org": "Aptech",
+    "roles": [
+      "Full Stack Engineer"
+    ],
+    "location": "Uyo, Akwa Ibom, Nigeria",
+    "timeline": "Dec 2020 - Feb 2021",
+    "description": "Cypto Exchange platform"
+  },
+  {
+    "org": "Nikano",
+    "roles": [
+      "Software Engineer"
+    ],
+    "location": "Uyo, Akwa Ibom, Nigeria",
+    "timeline": "Dec 2018 - May 2020",
+    "description": "A platform that help contest organizers manage their event and contest with ease"
   }
 
 ]
