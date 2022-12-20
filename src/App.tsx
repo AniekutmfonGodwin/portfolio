@@ -10,13 +10,15 @@ import Tab from './Tab'
 import WorkExperience from './WorkExperience'
 import Certifications from './Certifications'
 import FiverLogo from './static/image/fiverr-logo.png'
+import UpworkLogo from './static/upwork.png'
 
 const LINKS = {
-  cv: 'https://drive.google.com/file/d/1BTp0XVKNQmd7BDhrjJ-dVTEmfc3bs_l1/view?usp=sharing',
+  cv: 'https://drive.google.com/drive/folders/1AQuXhhXfdd6YzIbUW0aRosSCZ5mrqW6T?usp=sharing',
   github: 'https://github.com/AniekutmfonGodwin',
   linkedin: 'https://linkedin.com/in/aniekutmfongodwin',
   twitter: 'https://twitter.com/aniekutmfon',
   fiverr: 'https://www.fiverr.com/aniesdigital',
+  upwork: 'https://www.upwork.com/freelancers/~01b9f977bd4947a25f',
   email: 'mailto:aniekutmfonekere@gmail.com',
 }
 const CONTACT_LINKS: any[] = [
@@ -45,6 +47,13 @@ const CONTACT_LINKS: any[] = [
       <img src={FiverLogo} style={{
         height:30,
       }} alt="fiverr" />
+    </a>
+  </>,
+  <>
+    <a href={LINKS?.upwork}>
+      <img src={UpworkLogo} style={{
+        height:30,
+      }} alt="upwork" />
     </a>
   </>,
 ]
@@ -94,7 +103,7 @@ function App() {
                   <header className=" ">
                     <h3 className="section_title">ABOUT</h3>
                   </header>
-                  
+
                   <div className="overflow-y-auto  hidden_scrollbar">
                     <p className="lead ">
                     A
