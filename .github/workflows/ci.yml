@@ -5,10 +5,12 @@ on:
     branches:
       - main
       - master
+      - anies/new-update
   pull_request:
     branches:
       - main
       - master
+      - anies/new-update
 
 jobs:
   ci:
