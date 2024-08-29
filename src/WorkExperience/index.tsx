@@ -4,7 +4,7 @@ export default function WorkExperience() {
   return (
     <ul className="flex flex-col timeline-listing">
       {work_experience?.map(
-        ({ org, roles, timeline, location, description }, idx) => (
+        ({ org, roles, timeline, description }, idx) => (
           <li key={idx} className="card timeline">
             <div>
               <p className="org mb-1">{org}</p>

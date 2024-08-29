@@ -48,7 +48,7 @@ export default function Skills() {
                                 {item?.tools && (
                                   <ul className="flex flex-wrap gap-[8px] mt-3">
                                     {item?.tools?.map(
-                                      ({ name, level }, toolIdx) => (
+                                      ({ name }, toolIdx) => (
                                         <li
                                           className="tag"
                                           title={name}
