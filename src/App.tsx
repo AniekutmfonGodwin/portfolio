@@ -114,7 +114,7 @@ function App() {
                      with
                     <span className="tag">
 
-                    4+ years
+                    6+ years
                     </span>
                      of experience working with
                      <span className="tag">
