@@ -1,11 +1,20 @@
 [
   {
+    "org": "CELUS",
+    "roles": [
+      "Python API Developer"
+    ],
+    "location": "Munich, Bavaria, Germany",
+    "timeline": "Oct 2022 - Jan 2023",
+    "description": "API development"
+  },
+  {
     "org": "The Roothub",
     "roles": [
       "Software Developer and Facilitator"
     ],
     "location": "Akwa Ibom, Nigeria",
-    "timeline": "Feb 2021 - Present",
+    "timeline": "Feb 2021 - Oct 2022",
     "description": "Presentation, Project management, and collaboration, Capacity building, and problem-solving"
   },
   {
