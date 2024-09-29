@@ -23,7 +23,7 @@ jobs:
 
     steps:
       - name: Checkout 🛎
-        uses: actions/checkout@v2 # Updated to the latest version
+        uses: actions/checkout@v4 # Updated to the latest version
 
       - name: Setup Node.js 🏗
         uses: actions/setup-node@v3 # Updated to the latest version
